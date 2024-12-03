@@ -1,0 +1,9 @@
+.food-heading{
+color: rgb(238, 80, 151);
+text-align: center;
+}
+
+.food-heading:hover{
+  color: red;
+
+}
